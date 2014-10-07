@@ -1,0 +1,20 @@
+{
+  "name": "DanielStreit",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Streit <Daniel.Streit@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "DanielStreit.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
